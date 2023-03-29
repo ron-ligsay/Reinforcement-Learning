@@ -30,6 +30,7 @@ Will also be using
 gym.openai.
 
 ### Installing Stable-baselines3
+Reinformcement Learning Library
 !pip install stable-baselines3[extra]
 
 ### PyTorch
