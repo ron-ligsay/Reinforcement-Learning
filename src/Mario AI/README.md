@@ -1,6 +1,8 @@
 ## Build an Mario AI Model with Python
 
-https://www.youtube.com/watch?v=2eeYqJ0uBKE
+Link: https://www.youtube.com/watch?v=2eeYqJ0uBKE
+
+Using PPO (Proximal Policy Optimization) to train a Mario AI model to play Super Mario Bros. 1-1.
 
 
 
