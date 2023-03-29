@@ -39,3 +39,8 @@ Your OS: Windows
 Package: Pip
 Language: Python
 Compute Platform: CUDA (GPU accelaration running) if you have cuda installed on your computer. If not, then CPU.
+
+Run this Command: pip3 install torch torchvision torchaudio
+or
+pip install torch===1.7.1 torchvision===0.8.2 torchaudio===0.7.2 -f https://download.pytorch.org/whl/torch_stable.html
+
