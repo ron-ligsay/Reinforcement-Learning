@@ -3,6 +3,7 @@
 Link: https://www.youtube.com/watch?v=2eeYqJ0uBKE
 
 Using PPO (Proximal Policy Optimization) to train a Mario AI model to play Super Mario Bros. 1-1.
+https://stable-baselines3.readthedocs.io/en/master/modules/ppo.html
 
 
 
