@@ -34,4 +34,8 @@ gym.openai.
 
 ### PyTorch
 https://pytorch.org/get-started/locally/
-Stable (Latest Version) , Windows, PIP, Python, CUDA (GPU accelaration running)
+PyTorch Build: Stable (Latest Version)
+Your OS: Windows
+Package: Pip
+Language: Python
+Compute Platform: CUDA (GPU accelaration running) if you have cuda installed on your computer. If not, then CPU.
