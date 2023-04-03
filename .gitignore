@@ -4,5 +4,6 @@ src/Mario AI/train/best_model_200000.zip
 src/Mario AI/train/best_model_100000.zip
 
 # ignore folder PPO_1 and PPO_2
-src/Mario AI/train/PPO_1
-src/Mario AI/train/PPO_2
+src/Mario AI/PPO_1
+src/Mario AI/PPO_2
+src/Mario AI/logs/PPO_2/events.out.tfevents.1680130102.DESKTOP-ADYAKY.4944.1
