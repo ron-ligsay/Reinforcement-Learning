@@ -48,3 +48,25 @@ Run this Command: pip3 install torch torchvision torchaudio
 or
 pip install torch===1.7.1 torchvision===0.8.2 torchaudio===0.7.2 -f https://download.pytorch.org/whl/torch_stable.html
 
+### To run the model
+go to your command prompt on dir where the latest PPO is stored, then run the command:
+tensorboard --logdir=.
+
+then copy the link (ex: http://localhost:6006/) and paste it on your browser.
+
+this allows you to view your training progress
+
+
+## Comments
+* Does not explain how PPO works
+* Does not explain how to train the model
+ * How the agent interact with the environment
+ * How the agent learns from the environment
+ * How the agent choose the best action
+ * How it gains reward or looses reward
+
+
+## Final Model
+* It took a day to train on 200,000 steps
+* The Model only reached the second or third pipe
+* Either the model is not trained enough or the model is not good enough
