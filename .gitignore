@@ -1,0 +1,4 @@
+# ignore zip files
+*.zip
+src/Mario AI/train/best_model_200000.zip
+src/Mario AI/train/best_model_100000.zip
